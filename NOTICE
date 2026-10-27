@@ -1,0 +1,27 @@
+Stationeers IDE
+===============
+
+An unofficial, fan-made tool. It is not affiliated with, endorsed by or
+supported by RocketWerkz. Stationeers is a game by RocketWerkz, who own its
+name.
+
+The project's own code is licensed under MIT or Apache-2.0, at your option
+(LICENSE-MIT, LICENSE-APACHE).
+
+Not covered by that license
+---------------------------
+These come from Stationeers and are (c) RocketWerkz. They are included to help
+players write scripts for the game, and will be removed on request:
+
+- assets/game-art/      device icons extracted from the game
+- data/game/            device, logic type, constant and instruction data
+                        exported from the game, including the instruction
+                        descriptions from its English text
+- tools/extract/tests/fixtures/
+                        small samples of the same exported data
+
+The same holds for copies of them in builds of the IDE (the web app and the
+release zips).
+
+Requests (including removal requests from RocketWerkz): open an issue at
+https://github.com/stationeers-ide/stationeers-ide.github.io/issues
